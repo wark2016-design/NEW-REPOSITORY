@@ -5,4 +5,4 @@
 Должность — начальник сборочного участка. 
 Также учусь в Нетологии на тестировщика. Хочу устроиться на удаленную работу тестировщиком. 
 фото Новокузнецка
-<img src="C:\Users\BLC\Desktop\TEST\Views_of_Novokuznetsk_2015-06-12.png">
+<img src="(https://github.com/wark2016-design/NEW-REPOSITORY/blob/main/Views_of_Novokuznetsk_2015-06-12.png?raw=true)">
